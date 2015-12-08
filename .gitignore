@@ -1,0 +1,6 @@
+#LngStdyMetadataORM - .gitignore
+.DS_Store
+/sublime/
+NOTES.txt
+dbrecords.py
+/lsmo/
