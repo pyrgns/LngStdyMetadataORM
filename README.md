@@ -1,4 +1,4 @@
-# Loading Study Metadata into an Object Relational Mapper
+# Loading Longitudinal Study Metadata into an Object Relational Mapper
 
 This file uses the [composite foreign keys](https://en.wikipedia.org/wiki/Compound_key) 
 available in legacy or questionably formatted survey metadata to create models for an [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping) 
